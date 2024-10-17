@@ -1,7 +1,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: #6e5e5d;
-    color: #faecdb;
+    color: #a79f96;
     margin: 0;
     padding: 0;
 }
@@ -22,4 +22,14 @@ header {
     border-width: thick 10px;
     border-block-width: 10px;
    
+}
+
+section {
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #1f1b1c;
+    border-radius: 20px;
+    box-shadow: 0 10px 10px #00000081 ;
+}
 }

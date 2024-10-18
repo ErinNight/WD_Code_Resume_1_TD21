@@ -1,7 +1,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: #6e5e5d;
-    color: #a79f96;
+    color: #c9b196;
     margin: 0;
     padding: 0;
 }
@@ -31,4 +31,8 @@ section {
     background-color: #1f1b1c;
     border-radius: 20px;
     box-shadow: 0 10px 10px #00000081 ;
+}
+
+h2 {
+    color: #dd645b;
 }

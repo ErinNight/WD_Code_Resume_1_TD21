@@ -116,6 +116,7 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
+|Title|Purpose|Link|
 | Borders| Used to create a better look| https://www.w3schools.com/css/css_border.asp |
 | Icon | Used for links to hop on socials | https://www.w3schools.com/css/css_link.asp |
 | Icon Images | Used for links for better design | https://www.flaticon.com |

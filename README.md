@@ -9,13 +9,12 @@ Repository for Resume project of 2024-2025, section TD21.
 <div align="center">
 
   <!-- TODO: If you want to add logo or banner you can add it here -->
- 
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Navales Resume Midterms</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Navales' attempt for a resume.
 </div>
 
 <br />

@@ -1,7 +1,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #6e5e5d;
-    color: #c9b196;
+    background-color: #1f1b1c;
+    color: #1b0f02;
     margin: 0;
     padding: 0;
 }
@@ -28,11 +28,18 @@ section {
     padding: 30px;
     margin: 20px auto;
     max-width: 800px;
-    background-color: #1f1b1c;
+    background-color: #b8a8a7;
     border-radius: 20px;
     box-shadow: 0 10px 10px #00000081 ;
 }
 
 h2 {
-    color: #dd645b;
+    color: #440702;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #302325;
+    color: #b8a8a7;
 }

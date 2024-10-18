@@ -43,3 +43,10 @@ footer {
     background-color: #302325;
     color: #b8a8a7;
 }
+
+.social-icon {
+    width: 32px;
+    height: 32px;
+    margin: 0 10px;
+    transition: transform 0.3s ease;
+}
